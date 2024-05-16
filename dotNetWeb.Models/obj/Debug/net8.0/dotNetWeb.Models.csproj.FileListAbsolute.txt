@@ -1,0 +1,12 @@
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Models\bin\Debug\net8.0\dotNetWeb.Models.deps.json
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Models\bin\Debug\net8.0\dotNetWeb.Models.dll
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Models\bin\Debug\net8.0\dotNetWeb.Models.pdb
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Models\obj\Debug\net8.0\dotNetWeb.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Models\obj\Debug\net8.0\dotNetWeb.Models.AssemblyInfoInputs.cache
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Models\obj\Debug\net8.0\dotNetWeb.Models.AssemblyInfo.cs
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Models\obj\Debug\net8.0\dotNetWeb.Models.csproj.CoreCompileInputs.cache
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Models\obj\Debug\net8.0\dotNetWeb.Models.sourcelink.json
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Models\obj\Debug\net8.0\dotNetWeb.Models.dll
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Models\obj\Debug\net8.0\refint\dotNetWeb.Models.dll
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Models\obj\Debug\net8.0\dotNetWeb.Models.pdb
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Models\obj\Debug\net8.0\ref\dotNetWeb.Models.dll

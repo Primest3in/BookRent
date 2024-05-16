@@ -1,0 +1,12 @@
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Utility\bin\Debug\net8.0\dotNetWeb.Utility.deps.json
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Utility\bin\Debug\net8.0\dotNetWeb.Utility.dll
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Utility\bin\Debug\net8.0\dotNetWeb.Utility.pdb
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Utility\obj\Debug\net8.0\dotNetWeb.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Utility\obj\Debug\net8.0\dotNetWeb.Utility.AssemblyInfoInputs.cache
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Utility\obj\Debug\net8.0\dotNetWeb.Utility.AssemblyInfo.cs
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Utility\obj\Debug\net8.0\dotNetWeb.Utility.csproj.CoreCompileInputs.cache
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Utility\obj\Debug\net8.0\dotNetWeb.Utility.sourcelink.json
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Utility\obj\Debug\net8.0\dotNetWeb.Utility.dll
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Utility\obj\Debug\net8.0\refint\dotNetWeb.Utility.dll
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Utility\obj\Debug\net8.0\dotNetWeb.Utility.pdb
+C:\Users\mahbu\source\repos\dotNetWeb\dotNetWeb.Utility\obj\Debug\net8.0\ref\dotNetWeb.Utility.dll
