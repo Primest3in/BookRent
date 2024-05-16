@@ -1,1 +1,1 @@
-# BookRent
+This is an ongoing comprehensive web application for book renting where users can upload and rent books. The system also incorporates AI-based recommendations, suggesting books to users based on their browsing history. The project aims to provide a seamless and personalized book renting experience.
