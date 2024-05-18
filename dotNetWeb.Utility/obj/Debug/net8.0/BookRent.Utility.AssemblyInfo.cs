@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookRent.Utility")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68ee549af60b18293557625aa0e3ddef7d899709")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2346b67ede0e1daf73674e8c34b084a2e7c59f62")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookRent.Utility")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookRent.Utility")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
