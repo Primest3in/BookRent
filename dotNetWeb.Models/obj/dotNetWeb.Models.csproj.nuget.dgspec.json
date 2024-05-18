@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mahbu\\source\\repos\\dotNetWeb\\dotNetWeb.Models\\dotNetWeb.Models.csproj": {}
+    "C:\\BookRent\\dotNetWeb.Models\\dotNetWeb.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mahbu\\source\\repos\\dotNetWeb\\dotNetWeb.Models\\dotNetWeb.Models.csproj": {
+    "C:\\BookRent\\dotNetWeb.Models\\dotNetWeb.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mahbu\\source\\repos\\dotNetWeb\\dotNetWeb.Models\\dotNetWeb.Models.csproj",
+        "projectUniqueName": "C:\\BookRent\\dotNetWeb.Models\\dotNetWeb.Models.csproj",
         "projectName": "dotNetWeb.Models",
-        "projectPath": "C:\\Users\\mahbu\\source\\repos\\dotNetWeb\\dotNetWeb.Models\\dotNetWeb.Models.csproj",
+        "projectPath": "C:\\BookRent\\dotNetWeb.Models\\dotNetWeb.Models.csproj",
         "packagesPath": "C:\\Users\\mahbu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mahbu\\source\\repos\\dotNetWeb\\dotNetWeb.Models\\obj\\",
+        "outputPath": "C:\\BookRent\\dotNetWeb.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mahbu\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mahbu\\source\\repos\\dotNetWeb\\dotNetWeb.Utility\\dotNetWeb.Utility.csproj",
+      "projectUniqueName": "C:\\BookRent\\dotNetWeb.Utility\\dotNetWeb.Utility.csproj",
       "projectName": "dotNetWeb.Utility",
-      "projectPath": "C:\\Users\\mahbu\\source\\repos\\dotNetWeb\\dotNetWeb.Utility\\dotNetWeb.Utility.csproj",
+      "projectPath": "C:\\BookRent\\dotNetWeb.Utility\\dotNetWeb.Utility.csproj",
       "packagesPath": "C:\\Users\\mahbu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mahbu\\source\\repos\\dotNetWeb\\dotNetWeb.Utility\\obj\\",
+      "outputPath": "C:\\BookRent\\dotNetWeb.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mahbu\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,4 +1,5 @@
 ﻿using dotNetWeb.DataAccess.Data;
+using dotNetWeb.DataAccess.Repository.IRepository;
 using dotNetWeb.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,14 +9,14 @@ namespace dotNetWeb.Controllers
     
     public class CategoryController : Controller
     {
-        private readonly ApplicationDBContext _db;
-        public CategoryController(ApplicationDBContext db)
+        private readonly ICategoryRepository categoryRepository;
+        public CategoryController(ICategoryRepository db)
         {
-            _db = db;
+            categoryRepository = db;
         }
         public IActionResult Index()
         {
-            List<Category> categories = _db.Categories.ToList();
+            List<Category> categories = categoryRepository.GetAll().ToList();
             return View(categories);
         }
         public IActionResult CreateNewCategory()
@@ -26,8 +27,8 @@ namespace dotNetWeb.Controllers
         public IActionResult CreateNewCategory(Category obj)
         {
             if(ModelState.IsValid) {
-                _db.Categories.Add(obj);
-                _db.SaveChanges();
+                categoryRepository.Add(obj);
+                categoryRepository.Save();
 
                 TempData["success"] = "New category added successfully";
                 return RedirectToAction("Index");
@@ -41,7 +42,7 @@ namespace dotNetWeb.Controllers
             {
                 return NotFound();
             }
-            Category? category = _db.Categories.Find(id);
+            Category? category = categoryRepository.Get(u => u.Id == id);
            
             if (category == null) {
                 return NotFound();
@@ -58,8 +59,8 @@ namespace dotNetWeb.Controllers
 
             if (ModelState.IsValid)
             {
-                _db.Categories.Update(obj);
-                _db.SaveChanges();
+                categoryRepository.Update(obj);
+                categoryRepository.Save();
                 TempData["success"] = "Category updated successfully";
                 return RedirectToAction("Index");
             }
@@ -72,11 +73,11 @@ namespace dotNetWeb.Controllers
 
         public IActionResult Delete(int ob)
         {
-            Category category = _db.Categories.Find(ob);
+            Category category = categoryRepository.Get(u => u.Id == ob);
             if (category != null)
             {
-                _db.Categories.Remove(category);
-                _db.SaveChanges();
+                categoryRepository.Delete(category);
+                categoryRepository.Save();
 
                 TempData["success"] = "Category deleted successfully";
             }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xkb+jssRXtx7HL8/ua9Xq7MACWcNTU7iq07cbLTBHCnusJQ/A/iu6MA6OYwuyny4ByiqUvdund4o1MJCtBWbNQ==",
+  "dgSpecHash": "ytHNueFhVuTzbHJKcDqBMyPJpPMdg2UR5mVXKeL1b+I0boB5S6XwpFVj2fqml5tcZbjfWsnA6loJJz7KJ4zOeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mahbu\\source\\repos\\dotNetWeb\\dotNetWeb.DataAccess\\dotNetWeb.DataAccess.csproj",
+  "projectFilePath": "C:\\BookRent\\dotNetWeb.DataAccess\\dotNetWeb.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mahbu\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\mahbu\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

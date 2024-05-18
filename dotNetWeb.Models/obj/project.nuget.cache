@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QTt35gddQSHQlxCHegWVvSQZbQYs7p2mlKYBwtyoUpl3Vf91vodsPPDbVSQ07njAe6hnwvNxU3a8Whv+7wp2GQ==",
+  "dgSpecHash": "vm3D6grQmrr6L55KBxWQw+QUhpZuVtGcibN1vrABTJsjYpmf5LjuohgouEyENpJASjJsHoANyx3u1Ownhy1/Ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mahbu\\source\\repos\\dotNetWeb\\dotNetWeb.Models\\dotNetWeb.Models.csproj",
+  "projectFilePath": "C:\\BookRent\\dotNetWeb.Models\\dotNetWeb.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
