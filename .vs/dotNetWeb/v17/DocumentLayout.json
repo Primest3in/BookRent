@@ -3,16 +3,56 @@
   "WorkspaceRootPath": "C:\\BookRent\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|c:\\bookrent\\dotnetweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|solutionrelative:dotnetweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|c:\\bookrent\\dotnetweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|solutionrelative:dotnetweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|c:\\bookrent\\dotnetweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|solutionrelative:dotnetweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|c:\\bookrent\\dotnetweb\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|solutionrelative:dotnetweb\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|c:\\bookrent\\dotnetweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|solutionrelative:dotnetweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|c:\\bookrent\\dotnetweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|solutionrelative:dotnetweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|c:\\bookrent\\dotnetweb\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|solutionrelative:dotnetweb\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|c:\\bookrent\\dotnetweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|solutionrelative:dotnetweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|c:\\bookrent\\dotnetweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|solutionrelative:dotnetweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|c:\\bookrent\\dotnetweb\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|solutionrelative:dotnetweb\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|c:\\bookrent\\dotnetweb\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|solutionrelative:dotnetweb\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|c:\\bookrent\\dotnetweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|solutionrelative:dotnetweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|c:\\bookrent\\dotnetweb\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|solutionrelative:dotnetweb\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|c:\\bookrent\\dotnetweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|solutionrelative:dotnetweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|c:\\bookrent\\dotnetweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|solutionrelative:dotnetweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98ED4B87-6DA0-467F-B3C4-2000D35EE8E7}|dotNetWeb.Models\\BookRent.Models.csproj|c:\\bookrent\\dotnetweb.models\\bookrent.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -21,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{97CE13BC-FDD5-49A1-9EF7-4884357CA50E}|dotNetWeb.DataAccess\\BookRent.DataAccess.csproj|c:\\bookrent\\dotnetweb.dataaccess\\bookrent.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{97CE13BC-FDD5-49A1-9EF7-4884357CA50E}|dotNetWeb.DataAccess\\BookRent.DataAccess.csproj|solutionrelative:dotnetweb.dataaccess\\bookrent.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|c:\\bookrent\\dotnetweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|solutionrelative:dotnetweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|c:\\bookrent\\dotnetweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|solutionrelative:dotnetweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,50 +70,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\BookRent\\dotNetWeb\\appsettings.json",
-              "RelativeDocumentMoniker": "dotNetWeb\\appsettings.json",
-              "ToolTip": "C:\\BookRent\\dotNetWeb\\appsettings.json",
-              "RelativeToolTip": "dotNetWeb\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-18T20:15:03.065Z",
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\BookRent\\dotNetWeb\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "dotNetWeb\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\BookRent\\dotNetWeb\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "dotNetWeb\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-18T20:29:48.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\BookRent\\dotNetWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "dotNetWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\BookRent\\dotNetWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "dotNetWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwBsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T20:19:40.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BookRent.Models",
-              "DocumentMoniker": "C:\\BookRent\\dotNetWeb.Models\\BookRent.Models.csproj",
-              "RelativeDocumentMoniker": "dotNetWeb.Models\\BookRent.Models.csproj",
-              "ToolTip": "C:\\BookRent\\dotNetWeb.Models\\BookRent.Models.csproj",
-              "RelativeToolTip": "dotNetWeb.Models\\BookRent.Models.csproj",
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\BookRent\\dotNetWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "dotNetWeb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\BookRent\\dotNetWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "dotNetWeb\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-18T20:14:47.244Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T20:17:20.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookRent.DataAccess",
-              "DocumentMoniker": "C:\\BookRent\\dotNetWeb.DataAccess\\BookRent.DataAccess.csproj",
-              "RelativeDocumentMoniker": "dotNetWeb.DataAccess\\BookRent.DataAccess.csproj",
-              "ToolTip": "C:\\BookRent\\dotNetWeb.DataAccess\\BookRent.DataAccess.csproj",
-              "RelativeToolTip": "dotNetWeb.DataAccess\\BookRent.DataAccess.csproj",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\BookRent\\dotNetWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "dotNetWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\BookRent\\dotNetWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "dotNetWeb\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-18T20:14:46.443Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T20:18:53.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\BookRent\\dotNetWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "dotNetWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\BookRent\\dotNetWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "dotNetWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T20:18:52.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\BookRent\\dotNetWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "dotNetWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\BookRent\\dotNetWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "dotNetWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T20:18:52.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\BookRent\\dotNetWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "dotNetWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\BookRent\\dotNetWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "dotNetWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T20:18:50.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\BookRent\\dotNetWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "dotNetWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\BookRent\\dotNetWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "dotNetWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T20:18:49.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\BookRent\\dotNetWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "dotNetWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
@@ -90,6 +187,19 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T20:14:12.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\BookRent\\dotNetWeb\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "dotNetWeb\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\BookRent\\dotNetWeb\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "dotNetWeb\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-18T20:09:38.628Z",
               "EditorCaption": ""
             },
             {
@@ -107,7 +217,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
+              "Title": "BookRent.DataAccess",
+              "DocumentMoniker": "C:\\BookRent\\dotNetWeb.DataAccess\\BookRent.DataAccess.csproj",
+              "RelativeDocumentMoniker": "dotNetWeb.DataAccess\\BookRent.DataAccess.csproj",
+              "ToolTip": "C:\\BookRent\\dotNetWeb.DataAccess\\BookRent.DataAccess.csproj",
+              "RelativeToolTip": "dotNetWeb.DataAccess\\BookRent.DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T20:14:46.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\BookRent\\dotNetWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "dotNetWeb\\appsettings.json",
+              "ToolTip": "C:\\BookRent\\dotNetWeb\\appsettings.json",
+              "RelativeToolTip": "dotNetWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T20:15:03.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookRent.Models",
+              "DocumentMoniker": "C:\\BookRent\\dotNetWeb.Models\\BookRent.Models.csproj",
+              "RelativeDocumentMoniker": "dotNetWeb.Models\\BookRent.Models.csproj",
+              "ToolTip": "C:\\BookRent\\dotNetWeb.Models\\BookRent.Models.csproj",
+              "RelativeToolTip": "dotNetWeb.Models\\BookRent.Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T20:14:47.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\BookRent\\dotNetWeb\\Program.cs",
               "RelativeDocumentMoniker": "dotNetWeb\\Program.cs",
@@ -116,19 +265,6 @@
               "ViewState": "AQIAABgAAAAAAAAAAAAAAB8AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T20:10:14.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\BookRent\\dotNetWeb\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "dotNetWeb\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\BookRent\\dotNetWeb\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "dotNetWeb\\ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-18T20:09:38.628Z",
               "EditorCaption": ""
             }
           ]
