@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BookRent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|c:\\bookrent\\dotnetweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|solutionrelative:dotnetweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CE13BC-FDD5-49A1-9EF7-4884357CA50E}|dotNetWeb.DataAccess\\BookRent.DataAccess.csproj|c:\\bookrent\\dotnetweb.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CE13BC-FDD5-49A1-9EF7-4884357CA50E}|dotNetWeb.DataAccess\\BookRent.DataAccess.csproj|solutionrelative:dotnetweb.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CE13BC-FDD5-49A1-9EF7-4884357CA50E}|dotNetWeb.DataAccess\\BookRent.DataAccess.csproj|c:\\bookrent\\dotnetweb.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CE13BC-FDD5-49A1-9EF7-4884357CA50E}|dotNetWeb.DataAccess\\BookRent.DataAccess.csproj|solutionrelative:dotnetweb.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CE13BC-FDD5-49A1-9EF7-4884357CA50E}|dotNetWeb.DataAccess\\BookRent.DataAccess.csproj|c:\\bookrent\\dotnetweb.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CE13BC-FDD5-49A1-9EF7-4884357CA50E}|dotNetWeb.DataAccess\\BookRent.DataAccess.csproj|solutionrelative:dotnetweb.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|c:\\bookrent\\dotnetweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|solutionrelative:dotnetweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CE13BC-FDD5-49A1-9EF7-4884357CA50E}|dotNetWeb.DataAccess\\BookRent.DataAccess.csproj|c:\\bookrent\\dotnetweb.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CE13BC-FDD5-49A1-9EF7-4884357CA50E}|dotNetWeb.DataAccess\\BookRent.DataAccess.csproj|solutionrelative:dotnetweb.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|c:\\bookrent\\dotnetweb\\bookrent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D4295D2-9578-4DA7-8E88-2ECD4F43B1B6}|dotNetWeb\\BookRent.csproj|solutionrelative:dotnetweb\\bookrent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CE13BC-FDD5-49A1-9EF7-4884357CA50E}|dotNetWeb.DataAccess\\BookRent.DataAccess.csproj|c:\\bookrent\\dotnetweb.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CE13BC-FDD5-49A1-9EF7-4884357CA50E}|dotNetWeb.DataAccess\\BookRent.DataAccess.csproj|solutionrelative:dotnetweb.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CE13BC-FDD5-49A1-9EF7-4884357CA50E}|dotNetWeb.DataAccess\\BookRent.DataAccess.csproj|c:\\bookrent\\dotnetweb.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CE13BC-FDD5-49A1-9EF7-4884357CA50E}|dotNetWeb.DataAccess\\BookRent.DataAccess.csproj|solutionrelative:dotnetweb.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BookRent\\dotNetWeb\\Program.cs",
+              "RelativeDocumentMoniker": "dotNetWeb\\Program.cs",
+              "ToolTip": "C:\\BookRent\\dotNetWeb\\Program.cs",
+              "RelativeToolTip": "dotNetWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:47:59.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\BookRent\\dotNetWeb\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "dotNetWeb\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\BookRent\\dotNetWeb\\Controllers\\CategoryController.cs*",
+              "RelativeToolTip": "dotNetWeb\\Controllers\\CategoryController.cs*",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAwwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:47:48.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookRent",
+              "DocumentMoniker": "C:\\BookRent\\dotNetWeb\\BookRent.csproj",
+              "RelativeDocumentMoniker": "dotNetWeb\\BookRent.csproj",
+              "ToolTip": "C:\\BookRent\\dotNetWeb\\BookRent.csproj",
+              "RelativeToolTip": "dotNetWeb\\BookRent.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T19:47:45.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\BookRent\\dotNetWeb.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "dotNetWeb.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\BookRent\\dotNetWeb.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "dotNetWeb.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:46:30.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\BookRent\\dotNetWeb.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "dotNetWeb.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\BookRent\\dotNetWeb.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "dotNetWeb.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:44:05.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\BookRent\\dotNetWeb.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "dotNetWeb.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\BookRent\\dotNetWeb.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeToolTip": "dotNetWeb.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:43:54.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\BookRent\\dotNetWeb.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "dotNetWeb.DataAccess\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\BookRent\\dotNetWeb.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "dotNetWeb.DataAccess\\Repository\\UnitOfWork.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:37:50.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\BookRent\\dotNetWeb.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "dotNetWeb.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\BookRent\\dotNetWeb.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeToolTip": "dotNetWeb.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:36:27.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\BookRent\\dotNetWeb.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "dotNetWeb.DataAccess\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\BookRent\\dotNetWeb.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "dotNetWeb.DataAccess\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:32:49.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

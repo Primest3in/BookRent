@@ -9,14 +9,14 @@ namespace BookRent.Controllers
     
     public class CategoryController : Controller
     {
-        private readonly ICategoryRepository categoryRepository;
-        public CategoryController(ICategoryRepository db)
+        private readonly IUnitOfWork unitOfWork;
+        public CategoryController(IUnitOfWork db)
         {
-            categoryRepository = db;
+            unitOfWork = db;
         }
         public IActionResult Index()
         {
-            List<Category> categories = categoryRepository.GetAll().ToList();
+            List<Category> categories = unitOfWork.CategoryRepository.GetAll().ToList();
             return View(categories);
         }
         public IActionResult CreateNewCategory()
@@ -27,8 +27,8 @@ namespace BookRent.Controllers
         public IActionResult CreateNewCategory(Category obj)
         {
             if(ModelState.IsValid) {
-                categoryRepository.Add(obj);
-                categoryRepository.Save();
+                unitOfWork.CategoryRepository.Add(obj);
+                unitOfWork.Save();
 
                 TempData["success"] = "New category added successfully";
                 return RedirectToAction("Index");
@@ -42,7 +42,7 @@ namespace BookRent.Controllers
             {
                 return NotFound();
             }
-            Category? category = categoryRepository.Get(u => u.Id == id);
+            Category? category = unitOfWork.CategoryRepository.Get(u => u.Id == id);
            
             if (category == null) {
                 return NotFound();
@@ -59,8 +59,8 @@ namespace BookRent.Controllers
 
             if (ModelState.IsValid)
             {
-                categoryRepository.Update(obj);
-                categoryRepository.Save();
+                unitOfWork.CategoryRepository.Update(obj);
+                unitOfWork.Save();
                 TempData["success"] = "Category updated successfully";
                 return RedirectToAction("Index");
             }
@@ -73,11 +73,11 @@ namespace BookRent.Controllers
 
         public IActionResult Delete(int ob)
         {
-            Category category = categoryRepository.Get(u => u.Id == ob);
+            Category category = unitOfWork.CategoryRepository.Get(u => u.Id == ob);
             if (category != null)
             {
-                categoryRepository.Delete(category);
-                categoryRepository.Save();
+                unitOfWork.CategoryRepository.Delete(category);
+                unitOfWork.Save();
 
                 TempData["success"] = "Category deleted successfully";
             }

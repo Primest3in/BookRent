@@ -4164,11 +4164,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BookRentLatest\\dotNetWeb\\BookRent.csproj",
+      "projectUniqueName": "C:\\BookRent\\dotNetWeb\\BookRent.csproj",
       "projectName": "BookRent",
-      "projectPath": "C:\\BookRentLatest\\dotNetWeb\\BookRent.csproj",
+      "projectPath": "C:\\BookRent\\dotNetWeb\\BookRent.csproj",
       "packagesPath": "C:\\Users\\mahbu\\.nuget\\packages\\",
-      "outputPath": "C:\\BookRentLatest\\dotNetWeb\\obj\\",
+      "outputPath": "C:\\BookRent\\dotNetWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mahbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4185,11 +4185,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\BookRentLatest\\dotNetWeb.DataAccess\\BookRent.DataAccess.csproj": {
-              "projectPath": "C:\\BookRentLatest\\dotNetWeb.DataAccess\\BookRent.DataAccess.csproj"
+            "C:\\BookRent\\dotNetWeb.DataAccess\\BookRent.DataAccess.csproj": {
+              "projectPath": "C:\\BookRent\\dotNetWeb.DataAccess\\BookRent.DataAccess.csproj"
             },
-            "C:\\BookRentLatest\\dotNetWeb.Models\\BookRent.Models.csproj": {
-              "projectPath": "C:\\BookRentLatest\\dotNetWeb.Models\\BookRent.Models.csproj"
+            "C:\\BookRent\\dotNetWeb.Models\\BookRent.Models.csproj": {
+              "projectPath": "C:\\BookRent\\dotNetWeb.Models\\BookRent.Models.csproj"
             }
           }
         }

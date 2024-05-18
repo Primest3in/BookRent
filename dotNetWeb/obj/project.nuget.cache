@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eZeKrY/I9Xffvs25J5ilK7gnBKJdPHcIMxyFD0Mxs3woSj2DuM40/uOS9HlwrNXU521iyvgi81ccCxb+nNMEIw==",
+  "dgSpecHash": "Ony1truV+wL29XDtCz6g4p437ECJuA2xwfLFABngGo4Mj70KQPX0rGAfWmtk4Ak/ak+liqeD209mW43RIcSBCw==",
   "success": true,
-  "projectFilePath": "C:\\BookRentLatest\\dotNetWeb\\BookRent.csproj",
+  "projectFilePath": "C:\\BookRent\\dotNetWeb\\BookRent.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mahbu\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\mahbu\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

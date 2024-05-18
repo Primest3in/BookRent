@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KNYXovKJ52rlywONmKZeihmLX8qSekT5dWmYPEiWp83+FvoLoWmpTvfbTt4ybNvVhNar33cLplN+gZybU+qNFw==",
+  "dgSpecHash": "c0UplVHK2cIlRBTbk9YALYmno4OCUTllAqe/vSfZTflsmdRfzT6rUIKIqQ57E/4rv46vyZR7jPGMHThx+3B1AQ==",
   "success": true,
-  "projectFilePath": "C:\\BookRentLatest\\dotNetWeb.DataAccess\\BookRent.DataAccess.csproj",
+  "projectFilePath": "C:\\BookRent\\dotNetWeb.DataAccess\\BookRent.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mahbu\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\mahbu\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

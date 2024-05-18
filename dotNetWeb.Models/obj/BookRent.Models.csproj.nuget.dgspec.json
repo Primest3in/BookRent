@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BookRentLatest\\dotNetWeb.Models\\BookRent.Models.csproj": {}
+    "C:\\BookRent\\dotNetWeb.Models\\BookRent.Models.csproj": {}
   },
   "projects": {
-    "C:\\BookRentLatest\\dotNetWeb.Models\\BookRent.Models.csproj": {
+    "C:\\BookRent\\dotNetWeb.Models\\BookRent.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BookRentLatest\\dotNetWeb.Models\\BookRent.Models.csproj",
+        "projectUniqueName": "C:\\BookRent\\dotNetWeb.Models\\BookRent.Models.csproj",
         "projectName": "BookRent.Models",
-        "projectPath": "C:\\BookRentLatest\\dotNetWeb.Models\\BookRent.Models.csproj",
+        "projectPath": "C:\\BookRent\\dotNetWeb.Models\\BookRent.Models.csproj",
         "packagesPath": "C:\\Users\\mahbu\\.nuget\\packages\\",
-        "outputPath": "C:\\BookRentLatest\\dotNetWeb.Models\\obj\\",
+        "outputPath": "C:\\BookRent\\dotNetWeb.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mahbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
