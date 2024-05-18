@@ -1,8 +1,8 @@
-using dotNetWeb.Models;
+using BookRent.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace dotNetWeb.Controllers
+namespace BookRent.Controllers
 {
     public class HomeController : Controller
     {

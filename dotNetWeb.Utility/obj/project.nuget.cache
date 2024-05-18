@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hTl/EhZk2RKay98pA/EZqt2e9/ij5OkQG7q++/3kkpW4nFgfXL6FuUTaMaWCmSezBIeBTfMdiiiDGI7z8n4D0g==",
+  "dgSpecHash": "uSCTeCjOUQFu5ZQq85O/jJs1MjA9NbYCSVIoZ4YEb3/2XNr4HVazMyjTMn5xm2mx9QhGYlzhLtkDaxAunowoaQ==",
   "success": true,
-  "projectFilePath": "C:\\BookRent\\dotNetWeb.Utility\\dotNetWeb.Utility.csproj",
+  "projectFilePath": "C:\\BookRentLatest\\dotNetWeb.Utility\\BookRent.Utility.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

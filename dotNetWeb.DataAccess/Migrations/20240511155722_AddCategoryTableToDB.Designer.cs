@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using dotNetWeb.DataAccess.Data;
+using BookRent.DataAccess.Data;
 
 #nullable disable
 
-namespace dotNetWeb.DataAccess.Migrations
+namespace BookRent.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDBContext))]
     [Migration("20240511155722_AddCategoryTableToDB")]
@@ -24,7 +24,7 @@ namespace dotNetWeb.DataAccess.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("dotNetWeb.Models.Category", b =>
+            modelBuilder.Entity("BookRent.Models.Category", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

@@ -22,3 +22,15 @@ C:\BookRent\dotNetWeb.Models\obj\Debug\net8.0\dotNetWeb.Models.dll
 C:\BookRent\dotNetWeb.Models\obj\Debug\net8.0\refint\dotNetWeb.Models.dll
 C:\BookRent\dotNetWeb.Models\obj\Debug\net8.0\dotNetWeb.Models.pdb
 C:\BookRent\dotNetWeb.Models\obj\Debug\net8.0\ref\dotNetWeb.Models.dll
+C:\BookRentLatest\dotNetWeb.Models\bin\Debug\net8.0\dotNetWeb.Models.deps.json
+C:\BookRentLatest\dotNetWeb.Models\bin\Debug\net8.0\dotNetWeb.Models.dll
+C:\BookRentLatest\dotNetWeb.Models\bin\Debug\net8.0\dotNetWeb.Models.pdb
+C:\BookRentLatest\dotNetWeb.Models\obj\Debug\net8.0\dotNetWeb.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\BookRentLatest\dotNetWeb.Models\obj\Debug\net8.0\dotNetWeb.Models.AssemblyInfoInputs.cache
+C:\BookRentLatest\dotNetWeb.Models\obj\Debug\net8.0\dotNetWeb.Models.AssemblyInfo.cs
+C:\BookRentLatest\dotNetWeb.Models\obj\Debug\net8.0\dotNetWeb.Models.csproj.CoreCompileInputs.cache
+C:\BookRentLatest\dotNetWeb.Models\obj\Debug\net8.0\dotNetWeb.Models.sourcelink.json
+C:\BookRentLatest\dotNetWeb.Models\obj\Debug\net8.0\dotNetWeb.Models.dll
+C:\BookRentLatest\dotNetWeb.Models\obj\Debug\net8.0\refint\dotNetWeb.Models.dll
+C:\BookRentLatest\dotNetWeb.Models\obj\Debug\net8.0\dotNetWeb.Models.pdb
+C:\BookRentLatest\dotNetWeb.Models\obj\Debug\net8.0\ref\dotNetWeb.Models.dll

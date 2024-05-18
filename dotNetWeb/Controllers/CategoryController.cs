@@ -1,9 +1,9 @@
-﻿using dotNetWeb.DataAccess.Data;
-using dotNetWeb.DataAccess.Repository.IRepository;
-using dotNetWeb.Models;
+﻿using BookRent.DataAccess.Data;
+using BookRent.DataAccess.Repository.IRepository;
+using BookRent.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace dotNetWeb.Controllers
+namespace BookRent.Controllers
 {
 
     

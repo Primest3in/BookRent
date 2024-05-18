@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BookRent\\dotNetWeb.DataAccess\\dotNetWeb.DataAccess.csproj": {}
+    "C:\\BookRentLatest\\dotNetWeb.DataAccess\\dotNetWeb.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\BookRent\\dotNetWeb.DataAccess\\dotNetWeb.DataAccess.csproj": {
+    "C:\\BookRentLatest\\dotNetWeb.DataAccess\\dotNetWeb.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BookRent\\dotNetWeb.DataAccess\\dotNetWeb.DataAccess.csproj",
+        "projectUniqueName": "C:\\BookRentLatest\\dotNetWeb.DataAccess\\dotNetWeb.DataAccess.csproj",
         "projectName": "dotNetWeb.DataAccess",
-        "projectPath": "C:\\BookRent\\dotNetWeb.DataAccess\\dotNetWeb.DataAccess.csproj",
+        "projectPath": "C:\\BookRentLatest\\dotNetWeb.DataAccess\\dotNetWeb.DataAccess.csproj",
         "packagesPath": "C:\\Users\\mahbu\\.nuget\\packages\\",
-        "outputPath": "C:\\BookRent\\dotNetWeb.DataAccess\\obj\\",
+        "outputPath": "C:\\BookRentLatest\\dotNetWeb.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mahbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\BookRent\\dotNetWeb.Models\\dotNetWeb.Models.csproj": {
-                "projectPath": "C:\\BookRent\\dotNetWeb.Models\\dotNetWeb.Models.csproj"
+              "C:\\BookRentLatest\\dotNetWeb.Models\\dotNetWeb.Models.csproj": {
+                "projectPath": "C:\\BookRentLatest\\dotNetWeb.Models\\dotNetWeb.Models.csproj"
               },
-              "C:\\BookRent\\dotNetWeb.Utility\\dotNetWeb.Utility.csproj": {
-                "projectPath": "C:\\BookRent\\dotNetWeb.Utility\\dotNetWeb.Utility.csproj"
+              "C:\\BookRentLatest\\dotNetWeb.Utility\\dotNetWeb.Utility.csproj": {
+                "projectPath": "C:\\BookRentLatest\\dotNetWeb.Utility\\dotNetWeb.Utility.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\BookRent\\dotNetWeb.Models\\dotNetWeb.Models.csproj": {
+    "C:\\BookRentLatest\\dotNetWeb.Models\\dotNetWeb.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BookRent\\dotNetWeb.Models\\dotNetWeb.Models.csproj",
+        "projectUniqueName": "C:\\BookRentLatest\\dotNetWeb.Models\\dotNetWeb.Models.csproj",
         "projectName": "dotNetWeb.Models",
-        "projectPath": "C:\\BookRent\\dotNetWeb.Models\\dotNetWeb.Models.csproj",
+        "projectPath": "C:\\BookRentLatest\\dotNetWeb.Models\\dotNetWeb.Models.csproj",
         "packagesPath": "C:\\Users\\mahbu\\.nuget\\packages\\",
-        "outputPath": "C:\\BookRent\\dotNetWeb.Models\\obj\\",
+        "outputPath": "C:\\BookRentLatest\\dotNetWeb.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mahbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -147,14 +147,14 @@
         }
       }
     },
-    "C:\\BookRent\\dotNetWeb.Utility\\dotNetWeb.Utility.csproj": {
+    "C:\\BookRentLatest\\dotNetWeb.Utility\\dotNetWeb.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BookRent\\dotNetWeb.Utility\\dotNetWeb.Utility.csproj",
+        "projectUniqueName": "C:\\BookRentLatest\\dotNetWeb.Utility\\dotNetWeb.Utility.csproj",
         "projectName": "dotNetWeb.Utility",
-        "projectPath": "C:\\BookRent\\dotNetWeb.Utility\\dotNetWeb.Utility.csproj",
+        "projectPath": "C:\\BookRentLatest\\dotNetWeb.Utility\\dotNetWeb.Utility.csproj",
         "packagesPath": "C:\\Users\\mahbu\\.nuget\\packages\\",
-        "outputPath": "C:\\BookRent\\dotNetWeb.Utility\\obj\\",
+        "outputPath": "C:\\BookRentLatest\\dotNetWeb.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mahbu\\AppData\\Roaming\\NuGet\\NuGet.Config",

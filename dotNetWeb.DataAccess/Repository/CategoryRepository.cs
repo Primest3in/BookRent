@@ -1,13 +1,13 @@
-﻿using dotNetWeb.DataAccess.Data;
-using dotNetWeb.DataAccess.Repository.IRepository;
-using dotNetWeb.Models;
+﻿using BookRent.DataAccess.Data;
+using BookRent.DataAccess.Repository.IRepository;
+using BookRent.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace dotNetWeb.DataAccess.Repository
+namespace BookRent.DataAccess.Repository
 {
     public class CategoryRepository : Repository<Category>, ICategoryRepository
     {

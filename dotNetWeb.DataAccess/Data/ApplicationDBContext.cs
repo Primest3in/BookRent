@@ -1,7 +1,7 @@
-﻿using dotNetWeb.Models;
+﻿using BookRent.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace dotNetWeb.DataAccess.Data
+namespace BookRent.DataAccess.Data
 {
     public class ApplicationDBContext : DbContext
     {

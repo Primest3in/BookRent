@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace dotNetWeb.Utility
+namespace BookRent.Utility
 {
     public class SD
     {

@@ -22,3 +22,15 @@ C:\BookRent\dotNetWeb.Utility\obj\Debug\net8.0\dotNetWeb.Utility.dll
 C:\BookRent\dotNetWeb.Utility\obj\Debug\net8.0\refint\dotNetWeb.Utility.dll
 C:\BookRent\dotNetWeb.Utility\obj\Debug\net8.0\dotNetWeb.Utility.pdb
 C:\BookRent\dotNetWeb.Utility\obj\Debug\net8.0\ref\dotNetWeb.Utility.dll
+C:\BookRentLatest\dotNetWeb.Utility\bin\Debug\net8.0\dotNetWeb.Utility.deps.json
+C:\BookRentLatest\dotNetWeb.Utility\bin\Debug\net8.0\dotNetWeb.Utility.dll
+C:\BookRentLatest\dotNetWeb.Utility\bin\Debug\net8.0\dotNetWeb.Utility.pdb
+C:\BookRentLatest\dotNetWeb.Utility\obj\Debug\net8.0\dotNetWeb.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\BookRentLatest\dotNetWeb.Utility\obj\Debug\net8.0\dotNetWeb.Utility.AssemblyInfoInputs.cache
+C:\BookRentLatest\dotNetWeb.Utility\obj\Debug\net8.0\dotNetWeb.Utility.AssemblyInfo.cs
+C:\BookRentLatest\dotNetWeb.Utility\obj\Debug\net8.0\dotNetWeb.Utility.csproj.CoreCompileInputs.cache
+C:\BookRentLatest\dotNetWeb.Utility\obj\Debug\net8.0\dotNetWeb.Utility.sourcelink.json
+C:\BookRentLatest\dotNetWeb.Utility\obj\Debug\net8.0\dotNetWeb.Utility.dll
+C:\BookRentLatest\dotNetWeb.Utility\obj\Debug\net8.0\refint\dotNetWeb.Utility.dll
+C:\BookRentLatest\dotNetWeb.Utility\obj\Debug\net8.0\dotNetWeb.Utility.pdb
+C:\BookRentLatest\dotNetWeb.Utility\obj\Debug\net8.0\ref\dotNetWeb.Utility.dll

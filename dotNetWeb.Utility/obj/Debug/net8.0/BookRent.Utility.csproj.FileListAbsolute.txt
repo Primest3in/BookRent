@@ -1,0 +1,12 @@
+C:\BookRentLatest\dotNetWeb.Utility\bin\Debug\net8.0\BookRent.Utility.deps.json
+C:\BookRentLatest\dotNetWeb.Utility\bin\Debug\net8.0\BookRent.Utility.dll
+C:\BookRentLatest\dotNetWeb.Utility\bin\Debug\net8.0\BookRent.Utility.pdb
+C:\BookRentLatest\dotNetWeb.Utility\obj\Debug\net8.0\BookRent.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\BookRentLatest\dotNetWeb.Utility\obj\Debug\net8.0\BookRent.Utility.AssemblyInfoInputs.cache
+C:\BookRentLatest\dotNetWeb.Utility\obj\Debug\net8.0\BookRent.Utility.AssemblyInfo.cs
+C:\BookRentLatest\dotNetWeb.Utility\obj\Debug\net8.0\BookRent.Utility.csproj.CoreCompileInputs.cache
+C:\BookRentLatest\dotNetWeb.Utility\obj\Debug\net8.0\BookRent.Utility.sourcelink.json
+C:\BookRentLatest\dotNetWeb.Utility\obj\Debug\net8.0\BookRent.Utility.dll
+C:\BookRentLatest\dotNetWeb.Utility\obj\Debug\net8.0\refint\BookRent.Utility.dll
+C:\BookRentLatest\dotNetWeb.Utility\obj\Debug\net8.0\BookRent.Utility.pdb
+C:\BookRentLatest\dotNetWeb.Utility\obj\Debug\net8.0\ref\BookRent.Utility.dll

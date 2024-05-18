@@ -1503,40 +1503,40 @@
           }
         }
       },
-      "dotNetWeb.DataAccess/1.0.0": {
+      "BookRent.DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "BookRent.Models": "1.0.0",
+          "BookRent.Utility": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.4",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.4",
-          "dotNetWeb.Models": "1.0.0",
-          "dotNetWeb.Utility": "1.0.0"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.4"
         },
         "compile": {
-          "bin/placeholder/dotNetWeb.DataAccess.dll": {}
+          "bin/placeholder/BookRent.DataAccess.dll": {}
         },
         "runtime": {
-          "bin/placeholder/dotNetWeb.DataAccess.dll": {}
+          "bin/placeholder/BookRent.DataAccess.dll": {}
         }
       },
-      "dotNetWeb.Models/1.0.0": {
+      "BookRent.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/dotNetWeb.Models.dll": {}
+          "bin/placeholder/BookRent.Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/dotNetWeb.Models.dll": {}
+          "bin/placeholder/BookRent.Models.dll": {}
         }
       },
-      "dotNetWeb.Utility/1.0.0": {
+      "BookRent.Utility/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/dotNetWeb.Utility.dll": {}
+          "bin/placeholder/BookRent.Utility.dll": {}
         },
         "runtime": {
-          "bin/placeholder/dotNetWeb.Utility.dll": {}
+          "bin/placeholder/BookRent.Utility.dll": {}
         }
       }
     }
@@ -4133,29 +4133,29 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "dotNetWeb.DataAccess/1.0.0": {
+    "BookRent.DataAccess/1.0.0": {
       "type": "project",
-      "path": "../dotNetWeb.DataAccess/dotNetWeb.DataAccess.csproj",
-      "msbuildProject": "../dotNetWeb.DataAccess/dotNetWeb.DataAccess.csproj"
+      "path": "../dotNetWeb.DataAccess/BookRent.DataAccess.csproj",
+      "msbuildProject": "../dotNetWeb.DataAccess/BookRent.DataAccess.csproj"
     },
-    "dotNetWeb.Models/1.0.0": {
+    "BookRent.Models/1.0.0": {
       "type": "project",
-      "path": "../dotNetWeb.Models/dotNetWeb.Models.csproj",
-      "msbuildProject": "../dotNetWeb.Models/dotNetWeb.Models.csproj"
+      "path": "../dotNetWeb.Models/BookRent.Models.csproj",
+      "msbuildProject": "../dotNetWeb.Models/BookRent.Models.csproj"
     },
-    "dotNetWeb.Utility/1.0.0": {
+    "BookRent.Utility/1.0.0": {
       "type": "project",
-      "path": "../dotNetWeb.Utility/dotNetWeb.Utility.csproj",
-      "msbuildProject": "../dotNetWeb.Utility/dotNetWeb.Utility.csproj"
+      "path": "../dotNetWeb.Utility/BookRent.Utility.csproj",
+      "msbuildProject": "../dotNetWeb.Utility/BookRent.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "BookRent.DataAccess >= 1.0.0",
+      "BookRent.Models >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.4",
-      "Microsoft.EntityFrameworkCore.Tools >= 8.0.4",
-      "dotNetWeb.DataAccess >= 1.0.0",
-      "dotNetWeb.Models >= 1.0.0"
+      "Microsoft.EntityFrameworkCore.Tools >= 8.0.4"
     ]
   },
   "packageFolders": {
@@ -4164,11 +4164,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BookRent\\dotNetWeb\\dotNetWeb.csproj",
-      "projectName": "dotNetWeb",
-      "projectPath": "C:\\BookRent\\dotNetWeb\\dotNetWeb.csproj",
+      "projectUniqueName": "C:\\BookRentLatest\\dotNetWeb\\BookRent.csproj",
+      "projectName": "BookRent",
+      "projectPath": "C:\\BookRentLatest\\dotNetWeb\\BookRent.csproj",
       "packagesPath": "C:\\Users\\mahbu\\.nuget\\packages\\",
-      "outputPath": "C:\\BookRent\\dotNetWeb\\obj\\",
+      "outputPath": "C:\\BookRentLatest\\dotNetWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mahbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4185,11 +4185,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\BookRent\\dotNetWeb.DataAccess\\dotNetWeb.DataAccess.csproj": {
-              "projectPath": "C:\\BookRent\\dotNetWeb.DataAccess\\dotNetWeb.DataAccess.csproj"
+            "C:\\BookRentLatest\\dotNetWeb.DataAccess\\BookRent.DataAccess.csproj": {
+              "projectPath": "C:\\BookRentLatest\\dotNetWeb.DataAccess\\BookRent.DataAccess.csproj"
             },
-            "C:\\BookRent\\dotNetWeb.Models\\dotNetWeb.Models.csproj": {
-              "projectPath": "C:\\BookRent\\dotNetWeb.Models\\dotNetWeb.Models.csproj"
+            "C:\\BookRentLatest\\dotNetWeb.Models\\BookRent.Models.csproj": {
+              "projectPath": "C:\\BookRentLatest\\dotNetWeb.Models\\BookRent.Models.csproj"
             }
           }
         }

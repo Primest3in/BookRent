@@ -1,6 +1,6 @@
-using dotNetWeb.DataAccess.Data;
-using dotNetWeb.DataAccess.Repository;
-using dotNetWeb.DataAccess.Repository.IRepository;
+using BookRent.DataAccess.Data;
+using BookRent.DataAccess.Repository;
+using BookRent.DataAccess.Repository.IRepository;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
