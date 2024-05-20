@@ -16,9 +16,11 @@ namespace BookRent.DataAccess.Repository
         {
             dbContext = _dbContext;
             CategoryRepository = new CategoryRepository(dbContext);
+            ProductRepository = new ProductRepository(dbContext);
         } 
 
         public ICategoryRepository CategoryRepository {  get; private set; }
+        public IProductRepository ProductRepository {  get; private set; }
 
         public void Save()
         {
